@@ -1,8 +1,16 @@
 # Support Mistakes
 
-Support Mistakes is a repository about common mistakes made in technical support and how they impact users, product quality, and team efficiency.
+Support Mistakes is a repository focused on common mistakes in technical support and how they impact users, product quality, and team efficiency.
 
 Instead of focusing only on best practices, this project explores what goes wrong in real support scenarios — and why.
+
+---
+
+## 🌍 Language
+
+The main content of this repository is written in **Portuguese (Brazil)**.
+
+The README is written in English to make the purpose of the project accessible to a broader audience.
 
 ---
 
@@ -10,15 +18,15 @@ Instead of focusing only on best practices, this project explores what goes wron
 
 The goal of this repository is to highlight recurring mistakes in support workflows, helping teams:
 
-- recognize harmful patterns
-- improve communication with users
-- avoid unnecessary escalations
-- build better problem analysis habits
+- recognize harmful patterns  
+- improve communication with users  
+- avoid unnecessary escalations  
+- build better problem analysis habits  
 
 ---
 
 ## 📚 Contents
- 
+
 
 ---
 
